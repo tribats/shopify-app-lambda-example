@@ -1,0 +1,5 @@
+terraform/.terraform
+terraform/*.tfstate*
+vendor
+lambda.zip
+.bundle
